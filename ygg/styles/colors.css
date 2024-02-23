@@ -199,15 +199,15 @@
   /* {color.softBlue.1100} */
   --colorSoftBlue1100: #1a1f2d;
   /* {color.text.default} */
-  --colorTextDefault: var(--colorGray1100);
+  --colorTextDefault: var(--colorSoftBlue1100);
   /* {color.text.weak} */
-  --colorTextWeak: var(--colorGray1000);
+  --colorTextWeak: var(--colorSoftBlue1000);
   /* {color.text.weaker} */
-  --colorTextWeaker: var(--colorGray900);
+  --colorTextWeaker: var(--colorSoftBlue900);
   /* {color.text.weakest} */
-  --colorTextWeakest: var(--colorGray800);
+  --colorTextWeakest: var(--colorSoftBlue800);
   /* {color.text.disabled} */
-  --colorTextDisabled: var(--colorGray700);
+  --colorTextDisabled: var(--colorSoftBlue700);
   /* {color.text.transparent} */
   --colorTextTransparent: var(--colorTransparent);
   /* {color.text.brand} */
@@ -223,23 +223,23 @@
   /* {color.text.critical} */
   --colorTextCritical: var(--colorPink600);
   /* {color.text.inverse.default} */
-  --colorTextInverseDefault: var(--colorGray50);
+  --colorTextInverseDefault: var(--colorSoftBlue50);
   /* {color.text.inverse.weak} */
-  --colorTextInverseWeak: var(--colorGray100);
+  --colorTextInverseWeak: var(--colorSoftBlue100);
   /* {color.text.inverse.weaker} */
-  --colorTextInverseWeaker: var(--colorGray200);
+  --colorTextInverseWeaker: var(--colorSoftBlue200);
   /* {color.text.inverse.weakest} */
-  --colorTextInverseWeakest: var(--colorGray300);
+  --colorTextInverseWeakest: var(--colorSoftBlue300);
   /* {color.icon.default} */
-  --colorIconDefault: var(--colorGray1100);
+  --colorIconDefault: var(--colorSoftBlue1100);
   /* {color.icon.weak} */
-  --colorIconWeak: var(--colorGray1000);
+  --colorIconWeak: var(--colorSoftBlue1000);
   /* {color.icon.weaker} */
-  --colorIconWeaker: var(--colorGray900);
+  --colorIconWeaker: var(--colorSoftBlue900);
   /* {color.icon.weakest} */
-  --colorIconWeakest: var(--colorGray800);
+  --colorIconWeakest: var(--colorSoftBlue800);
   /* {color.icon.disabled} */
-  --colorIconDisabled: var(--colorGray700);
+  --colorIconDisabled: var(--colorSoftBlue700);
   /* {color.icon.transparent} */
   --colorIconTransparent: var(--colorTransparent);
   /* {color.icon.brand} */
@@ -255,23 +255,23 @@
   /* {color.icon.critical} */
   --colorIconCritical: var(--colorPink600);
   /* {color.icon.inverse.default} */
-  --colorIconInverseDefault: var(--colorGray50);
+  --colorIconInverseDefault: var(--colorSoftBlue50);
   /* {color.icon.inverse.weak} */
-  --colorIconInverseWeak: var(--colorGray100);
+  --colorIconInverseWeak: var(--colorSoftBlue100);
   /* {color.icon.inverse.weaker} */
-  --colorIconInverseWeaker: var(--colorGray200);
+  --colorIconInverseWeaker: var(--colorSoftBlue200);
   /* {color.icon.inverse.weakest} */
-  --colorIconInverseWeakest: var(--colorGray300);
+  --colorIconInverseWeakest: var(--colorSoftBlue300);
   /* {color.background.default} */
   --colorBackgroundDefault: var(--colorWhite);
   /* {color.background.weak} */
-  --colorBackgroundWeak: var(--colorGray50);
+  --colorBackgroundWeak: var(--colorSoftBlue50);
   /* {color.background.weaker} */
-  --colorBackgroundWeaker: var(--colorGray100);
+  --colorBackgroundWeaker: var(--colorSoftBlue100);
   /* {color.background.weakest} */
-  --colorBackgroundWeakest: var(--colorGray200);
+  --colorBackgroundWeakest: var(--colorSoftBlue200);
   /* {color.background.disabled} */
-  --colorBackgroundDisabled: var(--colorGray300);
+  --colorBackgroundDisabled: var(--colorSoftBlue300);
   /* {color.background.transparent} */
   --colorBackgroundTransparent: var(--colorTransparent);
   /* {color.background.brand.default} */
@@ -323,23 +323,23 @@
   /* {color.background.critical.weakest} */
   --colorBackgroundCriticalWeakest: var(--colorPink50);
   /* {color.background.inverse.default} */
-  --colorBackgroundInverseDefault: var(--colorGray1100);
+  --colorBackgroundInverseDefault: var(--colorSoftBlue1100);
   /* {color.background.inverse.weak} */
-  --colorBackgroundInverseWeak: var(--colorGray1000);
+  --colorBackgroundInverseWeak: var(--colorSoftBlue1000);
   /* {color.background.inverse.weaker} */
-  --colorBackgroundInverseWeaker: var(--colorGray900);
+  --colorBackgroundInverseWeaker: var(--colorSoftBlue900);
   /* {color.background.inverse.weakest} */
-  --colorBackgroundInverseWeakest: var(--colorGray800);
+  --colorBackgroundInverseWeakest: var(--colorSoftBlue800);
   /* {color.border.default} */
-  --colorBorderDefault: var(--colorGray50);
+  --colorBorderDefault: var(--colorSoftBlue50);
   /* {color.border.weak} */
-  --colorBorderWeak: var(--colorGray100);
+  --colorBorderWeak: var(--colorSoftBlue100);
   /* {color.border.weaker} */
-  --colorBorderWeaker: var(--colorGray200);
+  --colorBorderWeaker: var(--colorSoftBlue200);
   /* {color.border.weakest} */
-  --colorBorderWeakest: var(--colorGray300);
+  --colorBorderWeakest: var(--colorSoftBlue300);
   /* {color.border.disabled} */
-  --colorBorderDisabled: var(--colorGray400);
+  --colorBorderDisabled: var(--colorSoftBlue400);
   /* {color.border.transparent} */
   --colorBorderTransparent: var(--colorTransparent);
   /* {color.border.brand.default} */
@@ -391,11 +391,11 @@
   /* {color.border.critical.weakest} */
   --colorBorderCriticalWeakest: var(--colorPink100);
   /* {color.border.inverse.default} */
-  --colorBorderInverseDefault: var(--colorGray1000);
+  --colorBorderInverseDefault: var(--colorSoftBlue1000);
   /* {color.border.inverse.weak} */
-  --colorBorderInverseWeak: var(--colorGray900);
+  --colorBorderInverseWeak: var(--colorSoftBlue900);
   /* {color.border.inverse.weaker} */
-  --colorBorderInverseWeaker: var(--colorGray800);
+  --colorBorderInverseWeaker: var(--colorSoftBlue800);
   /* {color.border.inverse.weakest} */
-  --colorBorderInverseWeakest: var(--colorGray700);
+  --colorBorderInverseWeakest: var(--colorSoftBlue700);
 }
