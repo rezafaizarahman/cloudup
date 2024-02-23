@@ -199,15 +199,15 @@
   /* {color.softBlue.1100} */
   --colorSoftBlue1100: #1a1f2d;
   /* {color.text.default} */
-  --colorTextDefault: var(--colorSoftBlue50);
+  --colorTextDefault: var(--colorGray50);
   /* {color.text.weak} */
-  --colorTextWeak: var(--colorSoftBlue100);
+  --colorTextWeak: var(--colorGray100);
   /* {color.text.weaker} */
-  --colorTextWeaker: var(--colorSoftBlue200);
+  --colorTextWeaker: var(--colorGray200);
   /* {color.text.weakest} */
-  --colorTextWeakest: var(--colorSoftBlue300);
+  --colorTextWeakest: var(--colorGray300);
   /* {color.text.disabled} */
-  --colorTextDisabled: var(--colorSoftBlue400);
+  --colorTextDisabled: var(--colorGray400);
   /* {color.text.transparent} */
   --colorTextTransparent: var(--colorTransparent);
   /* {color.text.brand} */
@@ -217,29 +217,29 @@
   /* {color.text.positive} */
   --colorTextPositive: var(--colorGreen400);
   /* {color.text.promote} */
-  --colorTextPromote: var(--colorSoftBlue400);
+  --colorTextPromote: var(--colorGray400);
   /* {color.text.warning} */
   --colorTextWarning: var(--colorOrange400);
   /* {color.text.critical} */
   --colorTextCritical: var(--colorPink400);
   /* {color.text.inverse.default} */
-  --colorTextInverseDefault: var(--colorSoftBlue1100);
+  --colorTextInverseDefault: var(--colorGray1100);
   /* {color.text.inverse.weak} */
-  --colorTextInverseWeak: var(--colorSoftBlue1000);
+  --colorTextInverseWeak: var(--colorGray1000);
   /* {color.text.inverse.weaker} */
-  --colorTextInverseWeaker: var(--colorSoftBlue900);
+  --colorTextInverseWeaker: var(--colorGray900);
   /* {color.text.inverse.weakest} */
-  --colorTextInverseWeakest: var(--colorSoftBlue800);
+  --colorTextInverseWeakest: var(--colorGray800);
   /* {color.icon.default} */
-  --colorIconDefault: var(--colorSoftBlue50);
+  --colorIconDefault: var(--colorGray50);
   /* {color.icon.weak} */
-  --colorIconWeak: var(--colorSoftBlue100);
+  --colorIconWeak: var(--colorGray100);
   /* {color.icon.weaker} */
-  --colorIconWeaker: var(--colorSoftBlue200);
+  --colorIconWeaker: var(--colorGray200);
   /* {color.icon.weakest} */
-  --colorIconWeakest: var(--colorSoftBlue300);
+  --colorIconWeakest: var(--colorGray300);
   /* {color.icon.disabled} */
-  --colorIconDisabled: var(--colorSoftBlue400);
+  --colorIconDisabled: var(--colorGray400);
   /* {color.icon.transparent} */
   --colorIconTransparent: var(--colorTransparent);
   /* {color.icon.brand} */
@@ -249,29 +249,29 @@
   /* {color.icon.positive} */
   --colorIconPositive: var(--colorGreen400);
   /* {color.icon.promote} */
-  --colorIconPromote: var(--colorSoftBlue400);
+  --colorIconPromote: var(--colorGray400);
   /* {color.icon.warning} */
   --colorIconWarning: var(--colorOrange400);
   /* {color.icon.critical} */
   --colorIconCritical: var(--colorPink400);
   /* {color.icon.inverse.default} */
-  --colorIconInverseDefault: var(--colorSoftBlue1100);
+  --colorIconInverseDefault: var(--colorGray1100);
   /* {color.icon.inverse.weak} */
-  --colorIconInverseWeak: var(--colorSoftBlue1000);
+  --colorIconInverseWeak: var(--colorGray1000);
   /* {color.icon.inverse.weaker} */
-  --colorIconInverseWeaker: var(--colorSoftBlue900);
+  --colorIconInverseWeaker: var(--colorGray900);
   /* {color.icon.inverse.weakest} */
-  --colorIconInverseWeakest: var(--colorSoftBlue800);
+  --colorIconInverseWeakest: var(--colorGray800);
   /* {color.background.default} */
-  --colorBackgroundDefault: var(--colorSoftBlue1100);
+  --colorBackgroundDefault: var(--colorGray1100);
   /* {color.background.weak} */
-  --colorBackgroundWeak: var(--colorSoftBlue1000);
+  --colorBackgroundWeak: var(--colorGray1000);
   /* {color.background.weaker} */
-  --colorBackgroundWeaker: var(--colorSoftBlue900);
+  --colorBackgroundWeaker: var(--colorGray900);
   /* {color.background.weakest} */
-  --colorBackgroundWeakest: var(--colorSoftBlue800);
+  --colorBackgroundWeakest: var(--colorGray800);
   /* {color.background.disabled} */
-  --colorBackgroundDisabled: var(--colorSoftBlue700);
+  --colorBackgroundDisabled: var(--colorGray700);
   /* {color.background.transparent} */
   --colorBackgroundTransparent: var(--colorTransparent);
   /* {color.background.brand.default} */
@@ -299,13 +299,13 @@
   /* {color.background.positive.weakest} */
   --colorBackgroundPositiveWeakest: var(--colorGreen1000);
   /* {color.background.promote.default} */
-  --colorBackgroundPromoteDefault: var(--colorSoftBlue700);
+  --colorBackgroundPromoteDefault: var(--colorGray700);
   /* {color.background.promote.weak} */
-  --colorBackgroundPromoteWeak: var(--colorSoftBlue800);
+  --colorBackgroundPromoteWeak: var(--colorGray800);
   /* {color.background.promote.weaker} */
-  --colorBackgroundPromoteWeaker: var(--colorSoftBlue900);
+  --colorBackgroundPromoteWeaker: var(--colorGray900);
   /* {color.background.promote.weakest} */
-  --colorBackgroundPromoteWeakest: var(--colorSoftBlue1000);
+  --colorBackgroundPromoteWeakest: var(--colorGray1000);
   /* {color.background.warning.default} */
   --colorBackgroundWarningDefault: var(--colorOrange700);
   /* {color.background.warning.weak} */
@@ -323,23 +323,23 @@
   /* {color.background.critical.weakest} */
   --colorBackgroundCriticalWeakest: var(--colorPink1000);
   /* {color.background.inverse.default} */
-  --colorBackgroundInverseDefault: var(--colorSoftBlue50);
+  --colorBackgroundInverseDefault: var(--colorGray50);
   /* {color.background.inverse.weak} */
-  --colorBackgroundInverseWeak: var(--colorSoftBlue100);
+  --colorBackgroundInverseWeak: var(--colorGray100);
   /* {color.background.inverse.weaker} */
-  --colorBackgroundInverseWeaker: var(--colorSoftBlue200);
+  --colorBackgroundInverseWeaker: var(--colorGray200);
   /* {color.background.inverse.weakest} */
-  --colorBackgroundInverseWeakest: var(--colorSoftBlue300);
+  --colorBackgroundInverseWeakest: var(--colorGray300);
   /* {color.border.default} */
-  --colorBorderDefault: var(--colorSoftBlue1000);
+  --colorBorderDefault: var(--colorGray1000);
   /* {color.border.weak} */
-  --colorBorderWeak: var(--colorSoftBlue900);
+  --colorBorderWeak: var(--colorGray900);
   /* {color.border.weaker} */
-  --colorBorderWeaker: var(--colorSoftBlue800);
+  --colorBorderWeaker: var(--colorGray800);
   /* {color.border.weakest} */
-  --colorBorderWeakest: var(--colorSoftBlue700);
+  --colorBorderWeakest: var(--colorGray700);
   /* {color.border.disabled} */
-  --colorBorderDisabled: var(--colorSoftBlue600);
+  --colorBorderDisabled: var(--colorGray600);
   /* {color.border.transparent} */
   --colorBorderTransparent: var(--colorTransparent);
   /* {color.border.brand.default} */
@@ -367,13 +367,13 @@
   /* {color.border.positive.weakest} */
   --colorBorderPositiveWeakest: var(--colorGreen900);
   /* {color.border.promote.default} */
-  --colorBorderPromoteDefault: var(--colorSoftBlue600);
+  --colorBorderPromoteDefault: var(--colorGray600);
   /* {color.border.promote.weak} */
-  --colorBorderPromoteWeak: var(--colorSoftBlue700);
+  --colorBorderPromoteWeak: var(--colorGray700);
   /* {color.border.promote.weaker} */
-  --colorBorderPromoteWeaker: var(--colorSoftBlue800);
+  --colorBorderPromoteWeaker: var(--colorGray800);
   /* {color.border.promote.weakest} */
-  --colorBorderPromoteWeakest: var(--colorSoftBlue900);
+  --colorBorderPromoteWeakest: var(--colorGray900);
   /* {color.border.warning.default} */
   --colorBorderWarningDefault: var(--colorOrange600);
   /* {color.border.warning.weak} */
@@ -391,11 +391,11 @@
   /* {color.border.critical.weakest} */
   --colorBorderCriticalWeakest: var(--colorPink900);
   /* {color.border.inverse.default} */
-  --colorBorderInverseDefault: var(--colorSoftBlue100);
+  --colorBorderInverseDefault: var(--colorGray100);
   /* {color.border.inverse.weak} */
-  --colorBorderInverseWeak: var(--colorSoftBlue200);
+  --colorBorderInverseWeak: var(--colorGray200);
   /* {color.border.inverse.weaker} */
-  --colorBorderInverseWeaker: var(--colorSoftBlue300);
+  --colorBorderInverseWeaker: var(--colorGray300);
   /* {color.border.inverse.weakest} */
-  --colorBorderInverseWeakest: var(--colorSoftBlue400);
+  --colorBorderInverseWeakest: var(--colorGray400);
 }
